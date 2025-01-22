@@ -36,10 +36,7 @@ console.log("")
 //
 // lembrar o professor do contra passo
 console.log("Lógicos")
-console.log(" | ")
-console.log(" | ")
-console.log(" | ")
-console.log(" | ")
-console.log(" | ")
-console.log(" | ")
+console.log("&& | AND")
+console.log("| | OR")
+console.log("! | NOT")
 console.log("")
