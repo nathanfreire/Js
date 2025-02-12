@@ -2,3 +2,5 @@
 
 # Js
 Fundamentos do JavaScript
+## Autor
+Nathan Freire Furukawa Santos
