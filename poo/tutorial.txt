@@ -31,8 +31,17 @@ node -v (versão no node)
 node arquivo.js (exercutar o aquivo JavaScript)
 
 FRAMEWORK
-Um framework é um  conjunto de ferramentas, bibliotecas e regras
 
+Um FRAMEWORK é um conjunto de ferramentas, bibliotecas e regras que facilita o desenvolvimento de software, fornecendo uma estrutura pronta para o programador. O FRAMEWORK define um "esqueleto" do projeto, onde você preenche com seu código, seguindo padrões já estabelecidos. Isso economiza tempo, evita a repetição de código e garante boas práticas.
+Um FRAMEWORK é como montar um hamburguer em uma rede de fast food. Sem um FRAMEWORK, voce teria que moer a carne, assar o pao, preparar os ingredientes e criar sua propria receita de zero.
+
+------------------------------------------------------------------------------------------------
+Passo 1: Acessar a documentação  do framework 
+https://getbootstrap.com/docs/5.3
+
+passo 2: criar os links para o CSS e JS, conforme orientações da documentação
+ 
+Passo 3: CRiar inicialmente uma classe de nome container
 
 -------------------------------------------------------------------------
 Array ou vetor é uma estrutura de dados indexada 
@@ -40,4 +49,4 @@ Array é uma alocação de variavel, com a diferença que ele pode armanezar vá
 O array trabalha com indices, o indice sempre inicia em 0.
 Usos do array:
 - Simplificar o código
-- Estrutura de dados (manipular os dados - banco de dados)
+- Estrutura de dados (manipular os dados - banco de dados).
