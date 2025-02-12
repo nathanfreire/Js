@@ -29,3 +29,15 @@ NODE - Plataforma que permite execultar o JS fora do navegador de internet
 Comandos NODE
 node -v (versão no node)
 node arquivo.js (exercutar o aquivo JavaScript)
+
+FRAMEWORK
+Um framework é um  conjunto de ferramentas, bibliotecas e regras
+
+
+-------------------------------------------------------------------------
+Array ou vetor é uma estrutura de dados indexada 
+Array é uma alocação de variavel, com a diferença que ele pode armanezar vários dados.
+O array trabalha com indices, o indice sempre inicia em 0.
+Usos do array:
+- Simplificar o código
+- Estrutura de dados (manipular os dados - banco de dados)
